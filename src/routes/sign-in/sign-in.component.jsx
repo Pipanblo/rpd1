@@ -13,7 +13,7 @@ const SignIn = () => {
 
   return (
     <div>
-      <h1>SignIn page</h1>
+      <h1>Sign In page</h1>
       <button onClick={logGoogleUser}>Google ile Giriş Yap</button>
       <SignUpForm/>
     </div>
